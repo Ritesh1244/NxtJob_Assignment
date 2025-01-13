@@ -37,3 +37,23 @@ The `jobs` table has the following columns:
    ```bash
    git clone <your-github-repo-url>
    cd job-board-backend
+Install dependencies:
+
+bash
+Copy code
+npm install
+Create a .env file in the root directory and add your database credentials:
+
+plaintext
+Copy code
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=your-password
+DB_NAME=job_board
+PORT=3000
+Run the application:
+
+bash
+Copy code
+npm run start
+The server will be running at http://localhost:3000
