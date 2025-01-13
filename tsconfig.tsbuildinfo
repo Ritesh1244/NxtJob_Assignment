@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/server.ts","./src/controllers/job.controller.ts","./src/database/connection.ts","./src/models/job.model.ts","./src/routes/job.routes.ts","./src/services/job.service.ts","./src/utils/errorhandler.ts"],"version":"5.7.3"}
